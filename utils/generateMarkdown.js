@@ -30,7 +30,7 @@ const generateMarkdown = (data) =>
   ${data.tests}
 
   ## Questions
-  GitHub username: ${data.github}
+  GitHub username: ${data.github}\n
   Email address: ${data.email}
 `;
 
