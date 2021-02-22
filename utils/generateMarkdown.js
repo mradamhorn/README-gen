@@ -28,7 +28,7 @@ const generateMarkdown = (data) =>
   ## Installation
   ${data.installation}
 
-  ## Usage Instructions
+  ## Usage
   ${data.usage}
 
   ## Contributors
