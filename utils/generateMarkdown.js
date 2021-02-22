@@ -26,9 +26,12 @@ const generateMarkdown = (data) =>
   ## Contributors
   ${data.contributions}
 
+  ## Testing
+  ${data.tests}
+
   ## Questions
-  ${data.github}
-  ${data.email}
+  GitHub username: ${data.github}
+  Email address: ${data.email}
 `;
 
 
