@@ -3,7 +3,7 @@
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage Instructions](#usage instructions)
+  - [Usage](#usage)
   - [Contributors](#contributors)
   - [Testing](#testing)
   - [Questions](#questions)
