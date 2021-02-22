@@ -17,9 +17,9 @@ const generateMarkdown = (data) =>
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
-  - [Usage Instructions](#usage)
-  - [Contributors](#contributions)
-  - [Testing](#tests)
+  - [Usage Instructions](#usage instructions)
+  - [Contributors](#contributors)
+  - [Testing](#testing)
   - [Questions](#questions)
 
   ## Description
