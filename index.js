@@ -51,12 +51,12 @@ const promptUser = () => {
 };
 
 // TODO: Create a function to write README file
-const writeFile = util.promisfy(fs.writeFile);
+const writeMarkdown = util.promisify(fs.writeFile);
 
 // TODO: Create a function to initialize app
 const init = () => {
     promptUser()
-        .then((data) => writeFile('README.md', generateMarkdown(data)))
+        .then((data) => writeMarkdown('README.md', generateMarkdown(data)))
         .then(() => console.log('Successfully wrote to README.md!'))
         .catch((err) => console.log(err));
 }
