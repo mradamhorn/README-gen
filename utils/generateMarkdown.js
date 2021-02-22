@@ -14,6 +14,14 @@
 const generateMarkdown = (data) =>
   `# ${data.title}
 
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage Instructions](#usage)
+  - [Contributors](#contributions)
+  - [Testing](#tests)
+  - [Questions](#questions)
+
   ## Description
   ${data.description}
 
