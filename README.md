@@ -9,8 +9,11 @@
   - [Questions](#questions)
   - [License](#license)
 
+  ## Instructional Video
+  ![Instructional Video](https://drive.google.com/file/d/1Wa_Lo4BhqAqUVIBHqLvVoCBXCohMMw2L/view)
+
   ## Description
-  This project is a guide for hitchhiker's on the internet, brought to you in part by the contributor Ford Prefect scouring the vast expanses of the Webula Interneverse. The spendid thing about this guide is that it streamlines the publication of itself.
+  This project is a guide for hitchhiker's on the internet, brought to you in part by the contributor Ford Prefect scouring the vast expanses of the Webula Interneverse. The spendid thing about this guide is that it streamlines the publication of itself. This guide streamlines the process of creating the guide itself by prompting the creator with questions to update the guide for any of the creatures in the universe who happen upon the guide.
 
   ## Installation
   Much of this project is brought to you by the Infinite Probability Drive and the installation has been diliberated over by, what we have been led to believe, the great minds of a speck of dust that is largely liquid. The installation of this project is likely irrelevant and you oughtn't bother, as your time would be much better spent laying a stick in the path of ants as they transport snips of leaves back to their hill for their queen.
