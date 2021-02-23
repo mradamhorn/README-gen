@@ -47,7 +47,20 @@ const promptUser = () => {
             message: 'What is your email?',
             name: 'email',
         },
-    ]);
+        {
+            type: 'input',
+            message: 'Would you like to add the MIT License to your project? (yes/no)',
+            name: 'license',
+        },
+    ])
+        .then((data) => {
+            if (data.license === 'yes') {
+                data.license = `[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+            } else {
+                data.license = '';
+            }
+            return data;
+        })
 };
 
 // TODO: Create a function to write README file
@@ -63,3 +76,4 @@ const init = () => {
 
 // Function call to initialize app
 init();
+

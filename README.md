@@ -7,6 +7,7 @@
   - [Contributors](#contributors)
   - [Testing](#testing)
   - [Questions](#questions)
+  - [License](#license)
 
   ## Description
   This project is a guide for hitchhiker's on the internet, brought to you in part by the contributor Ford Prefect scouring the vast expanses of the Webula Interneverse. The spendid thing about this guide is that it streamlines the publication of itself.
@@ -27,3 +28,6 @@
   GitHub username: [mradamhorn](https://github.com/mradamhorn)
 
   Email address: mr.amhorn@gmail.com
+
+  ## License
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
