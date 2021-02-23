@@ -10,7 +10,7 @@
   - [License](#license)
 
   ## Instructional Video
-  ![Instructional Video](https://drive.google.com/file/d/1Wa_Lo4BhqAqUVIBHqLvVoCBXCohMMw2L/view)
+  [Instructional Video](https://drive.google.com/file/d/1Wa_Lo4BhqAqUVIBHqLvVoCBXCohMMw2L/view?usp=sharing)
 
   ## Description
   This project is a guide for hitchhiker's on the internet, brought to you in part by the contributor Ford Prefect scouring the vast expanses of the Webula Interneverse. The spendid thing about this guide is that it streamlines the publication of itself. This guide streamlines the process of creating the guide itself by prompting the creator with questions to update the guide for any of the creatures in the universe who happen upon the guide.
