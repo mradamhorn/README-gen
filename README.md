@@ -25,7 +25,7 @@
   Many have credited a unseen spiritual being for much, if not all, of the contribution of the project but that is folly. Truth is that Adam Horn, along with Douglas Adams, J.R.R. Tolkien, the cellist in the lobby of the fourth hotel constructed in the shadow cast by the first passing of the moon in the second week of the 1800s, and a mallard named Billy.
 
   ## Testing
-  There are many ways to test the project but sticking one's own thumb out to hitch onto a passing Vogon contructor fleet is not suggested. The Vogons are miserable beings and their poetry lacks proper testing methods. It is far better to simply run the code in node to pass one's own answers through a write file method to a README.md file.
+  There are many ways to test the project but sticking one's own thumb out to hitch onto a passing Vogon contructor fleet is not suggested. The Vogons are miserable beings and their poetry lacks proper testing methods. It is far better to simply run the code in node to pass one's own answers through a write file method to a README file.
 
   ## Questions
   GitHub username: [mradamhorn](https://github.com/mradamhorn)
